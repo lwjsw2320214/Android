@@ -1,0 +1,78 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/readmonster.png
+SHA1-Digest: l3rStC6bJCYJ1lYw7K2+CGYl8b0=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: AfPh3OJoypH966MludSW6f1RHg4=
+
+Name: res/drawable-xxhdpi/readmonster.png
+SHA1-Digest: l3rStC6bJCYJ1lYw7K2+CGYl8b0=
+
+Name: res/drawable-ldpi/back.png
+SHA1-Digest: piNUo97lYyvwJOx8xSOO5CS/FX8=
+
+Name: res/drawable-xxhdpi/bg2.png
+SHA1-Digest: YiQ7PvIzWqQMOH4Dv/FYTbZLAwY=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: res/drawable-mdpi/back.png
+SHA1-Digest: piNUo97lYyvwJOx8xSOO5CS/FX8=
+
+Name: res/drawable-hdpi/back.png
+SHA1-Digest: piNUo97lYyvwJOx8xSOO5CS/FX8=
+
+Name: res/drawable-xhdpi/bg2.png
+SHA1-Digest: YiQ7PvIzWqQMOH4Dv/FYTbZLAwY=
+
+Name: resources.arsc
+SHA1-Digest: bZW3zGbHHfcEZStgEE1Osv12MPg=
+
+Name: res/drawable-ldpi/readmonster.png
+SHA1-Digest: l3rStC6bJCYJ1lYw7K2+CGYl8b0=
+
+Name: classes.dex
+SHA1-Digest: Wv1rSY97vIZ8vmnNE9amWpzMFOg=
+
+Name: res/drawable-xxhdpi/back.png
+SHA1-Digest: piNUo97lYyvwJOx8xSOO5CS/FX8=
+
+Name: res/drawable-mdpi/bg2.png
+SHA1-Digest: YiQ7PvIzWqQMOH4Dv/FYTbZLAwY=
+
+Name: res/drawable-hdpi/readmonster.png
+SHA1-Digest: l3rStC6bJCYJ1lYw7K2+CGYl8b0=
+
+Name: res/drawable-ldpi/bg2.png
+SHA1-Digest: YiQ7PvIzWqQMOH4Dv/FYTbZLAwY=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: GVIfdEOBv4gEny2T1jDhGGsZOBo=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: QonJ4f5nBPMs/J0/4ayM57Td3wo=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: RRxOSvpmhVfCwiprVV/wZlaqQpw=
+
+Name: res/drawable-xhdpi/back.png
+SHA1-Digest: piNUo97lYyvwJOx8xSOO5CS/FX8=
+
+Name: res/layout/activity_screen.xml
+SHA1-Digest: zBjhp/76soQQ8uBmV1u5nIUHa5E=
+
+Name: res/menu/screen.xml
+SHA1-Digest: 1/M3KmzHP2+DDt8n4mMQh8sdaFw=
+
+Name: res/drawable-mdpi/readmonster.png
+SHA1-Digest: l3rStC6bJCYJ1lYw7K2+CGYl8b0=
+
+Name: res/drawable-hdpi/bg2.png
+SHA1-Digest: YiQ7PvIzWqQMOH4Dv/FYTbZLAwY=
+
